@@ -8,7 +8,7 @@ Final State Press is an independent studio of content architects, strategists, a
 
 Our projects form a stack. Each layer solves a real problem in content engineering and knowledge work.
 
-**[Markdown Validator](https://github.com/finalstatepress/markdown-validator)** — Declarative validation for Markdown content and YAML front matter. If you maintain a docs-as-code pipeline with Hugo, DocFX, or a similar static site generator, this enforces structure on the format people actually use.
+**[Markdown Validator](https://github.com/Final-State-Press/markdown-validator)** — Declarative validation for Markdown content and YAML front matter. If you maintain a docs-as-code pipeline with Hugo, DocFX, or a similar static site generator, this enforces structure on the format people actually use.
 
 **[DITA Package Processor](https://github.com/finalstatepress/dita-package-processor)** — A deterministic pipeline for DITA XML: discovery → planning → execution → materialization. No inference, no magic. Documentation is a build artifact, not an afterthought.
 
@@ -28,7 +28,9 @@ Our projects form a stack. Each layer solves a real problem in content engineeri
 
 We use **Discussions** for questions, ideas, and conversation. **Issues** are for scoped, trackable work. Look for issues labeled `good first issue` if you want a concrete entry point.
 
-Before contributing, please read our [Code of Conduct](https://github.com/finalstatepress/.github/blob/main/CODE_OF_CONDUCT.md) and [Contributing Guide](https://github.com/finalstatepress/.github/blob/main/CONTRIBUTING.md).
+Before contributing, please read our [Code of Conduct](https://github.com/Final-State-Press/.github/blob/main/CODE_OF_CONDUCT.md) and [Contributing Guide](https://github.com/Final-State-Press/.github/blob/main/CONTRIBUTING.md).
+
+Join [the discussion](https://github.com/orgs/Final-State-Press/discussions).
 
 ## Learn more
 
