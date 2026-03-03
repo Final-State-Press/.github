@@ -10,13 +10,13 @@ Our projects form a stack. Each layer solves a real problem in content engineeri
 
 **[Markdown Validator](https://github.com/Final-State-Press/markdown-validator)** — Declarative validation for Markdown content and YAML front matter. If you maintain a docs-as-code pipeline with Hugo, DocFX, or a similar static site generator, this enforces structure on the format people actually use.
 
-**[DITA Package Processor](https://github.com/Final-State-Press/dita-package-processor)** — A deterministic pipeline for DITA XML: discovery → planning → execution → materialization. No inference, no magic. Documentation is a build artifact, not an afterthought.
+**[DITA Package Processor](https://github.com/Final-State-Press/dita_package_processor)** — A deterministic pipeline for DITA XML: discovery → planning → execution → materialization. No inference, no magic. Documentation is a build artifact, not an afterthought.
 
 **[Enterprise Knowledge Base](https://github.com/Final-State-Press/enterprise-knowledge-base)** — An open-source book and reference implementation for building schema-aware knowledge systems with Python, Markdown, Neo4j, and MkDocs. Publishes to HTML, EPUB, and PDF. Includes a runnable ETL slice that produces chunk records and graph projections.
 
 **[Knowledge Platform](https://github.com/Final-State-Press/knowledge-platform)** — A graph-first, local-first application platform where the graph is the artifact. Modular plugin architecture. Domain semantics defined by users, not vendors.
 
-**[Pattern Language Miner](https://github.com/Final-State-Press/pattern-language-parser-generator)** — Pattern extraction, enrichment, and semantic clustering from Markdown, HTML, and plain text. Exports to graph formats with optional vector DB integration.
+**[Pattern Language Miner](https://github.com/Final-State-Press/Pattern-Miner)** — Pattern extraction, enrichment, and semantic clustering from Markdown, HTML, and plain text. Exports to graph formats with optional vector DB integration.
 
 ## Values
 
