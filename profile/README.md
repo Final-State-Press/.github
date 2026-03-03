@@ -34,6 +34,6 @@ Join [the discussion](https://github.com/orgs/Final-State-Press/discussions).
 
 ## Learn more
 
-- [Final-State-Press.com](https://Final-State-Press.com) — Studio home, blog, and consulting
-- [Documentation](https://Final-State-Press.com/docs/) — Project docs built with MkDocs
-- [Contact](https://Final-State-Press.com/contact/) — Reach the team
+- [Final-State-Press.com](https://finalstatepress.com) — Studio home, blog, and consulting
+- [Documentation](https://finalstatepress.com/docs/) — Project docs built with MkDocs
+- [Contact](https://finalstatepress.com/contact/) — Reach the team
