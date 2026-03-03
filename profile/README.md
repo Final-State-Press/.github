@@ -16,7 +16,7 @@ Our projects form a stack. Each layer solves a real problem in content engineeri
 
 **[Knowledge Platform](https://github.com/Final-State-Press/knowledge-platform)** — A graph-first, local-first application platform where the graph is the artifact. Modular plugin architecture. Domain semantics defined by users, not vendors.
 
-**[Pattern Language Miner](https://github.com/Final-State-Press/Pattern-Miner)** — Pattern extraction, enrichment, and semantic clustering from Markdown, HTML, and plain text. Exports to graph formats with optional vector DB integration.
+**[Pattern Miner](https://github.com/Final-State-Press/Pattern-Miner)** — Identifies repeated structural patterns in text across six hierarchical levels: phrase, line, paragraph/list/table/title, chunk, section, and document. Higher levels are built from recurring lower-level patterns, revealing the structural DNA of the content. Outputs results in YAML or JSON for analysis, templating, and validation.
 
 ## Values
 
