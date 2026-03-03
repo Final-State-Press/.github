@@ -30,6 +30,8 @@ We use **Discussions** for questions, ideas, and conversation. **Issues** are fo
 
 Before contributing, please read our [Code of Conduct](https://github.com/finalstatepress/.github/blob/main/CODE_OF_CONDUCT.md) and [Contributing Guide](https://github.com/finalstatepress/.github/blob/main/CONTRIBUTING.md).
 
+Join [the discussion](https://github.com/orgs/Final-State-Press/discussions).
+
 ## Learn more
 
 - [finalstatepress.com](https://finalstatepress.com) — Studio home, blog, and consulting
