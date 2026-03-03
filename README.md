@@ -8,7 +8,7 @@ Final State Press is an independent studio of content architects, strategists, a
 
 Our projects form a stack. Each layer solves a real problem in content engineering and knowledge work.
 
-**[Markdown Validator](https://github.com/finalstatepress/markdown-validator)** — Declarative validation for Markdown content and YAML front matter. If you maintain a docs-as-code pipeline with Hugo, DocFX, or a similar static site generator, this enforces structure on the format people actually use.
+**[Markdown Validator](https://github.com/Final-State-Press/markdown-validator)** — Declarative validation for Markdown content and YAML front matter. If you maintain a docs-as-code pipeline with Hugo, DocFX, or a similar static site generator, this enforces structure on the format people actually use.
 
 **[DITA Package Processor](https://github.com/finalstatepress/dita-package-processor)** — A deterministic pipeline for DITA XML: discovery → planning → execution → materialization. No inference, no magic. Documentation is a build artifact, not an afterthought.
 
