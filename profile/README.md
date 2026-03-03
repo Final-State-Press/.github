@@ -28,7 +28,7 @@ Our projects form a stack. Each layer solves a real problem in content engineeri
 
 We use **Discussions** for questions, ideas, and conversation. **Issues** are for scoped, trackable work. Look for issues labeled `good first issue` if you want a concrete entry point.
 
-Before contributing, please read our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guide](CONTRIBUTING.md).
+Before contributing, please read our [Code of Conduct](../docs/CODE_OF_CONDUCT.md) and [Contributing Guide](../docs/CONTRIBUTING.md).
 
 Join [the discussion](https://github.com/orgs/Final-State-Press/discussions).
 
